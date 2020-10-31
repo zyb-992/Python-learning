@@ -1,2 +1,2 @@
 # Python-learning
-No
+print(hello world)
